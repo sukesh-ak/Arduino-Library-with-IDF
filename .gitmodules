@@ -1,0 +1,12 @@
+[submodule "arduino"]
+	path = arduino
+	url = https://github.com/espressif/arduino-esp32.git
+[submodule "components/arduino"]
+	path = components/arduino
+	url = https://github.com/espressif/arduino-esp32.git
+[submodule "components/Adafruit_BMP3XX"]
+	path = components/Adafruit_BMP3XX
+	url = https://github.com/adafruit/Adafruit_BMP3XX.git
+[submodule "components/SparkFun_u-blox_GNSS"]
+	path = components/SparkFun_u-blox_GNSS
+	url = https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library.git

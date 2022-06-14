@@ -1,0 +1,4 @@
+set(COMPONENT_REQUIRES "SparkFun_u-blox_GNSS")
+
+idf_component_register(SRCS "main.cpp"
+                    INCLUDE_DIRS ".")
