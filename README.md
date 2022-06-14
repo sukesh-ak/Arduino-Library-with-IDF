@@ -1,5 +1,5 @@
 # INTEGRATING ARDUINO LIBRARY IN ESP-IDF
-**Make sure to use latest ESP-IDF & Arduino released version**  
+**Make sure to use latest ESP-IDF & Arduino `released version`**  
 We are going to integrate `SparkFun_u-blox_GNSS_Arduino_Library` as a component to our sample `ESP-IDF` project.   
 This `Sparkfun` library is taken as an example so you could use any other library you need.
 
