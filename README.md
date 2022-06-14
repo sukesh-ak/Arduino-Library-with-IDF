@@ -16,8 +16,8 @@ This `Sparkfun` library is taken as an example so you could use any other librar
  ```
  git submodule add https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library.git SparkFun_u-blox_GNSS
  ```  
-> 7. Create CMakeLists.txt file content inside the `SparkFun_u-blox_GNSS` library folder   
-See the file content here [CMakeLists.txt](components/SparkFun_u-blox_GNSS/CMakeLists.txt)  
+> 7. Create CMakeLists.txt file inside the `SparkFun_u-blox_GNSS` library folder   
+
 ```CMake
 # CMakeFiles.txt inside "SparkFun_u-blox_GNSS" folder
 cmake_minimum_required(VERSION 3.5)
